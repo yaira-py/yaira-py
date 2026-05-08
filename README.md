@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 Hi, I'm Yaira! 👋<br><br># 🐍 Python Developer & Visual Designer<br> focused on building logical backend scripts and creating digital visual identities.<br><br>- 🚀 **Currently Building:** Python-based tools and simulators (like my Persistent Work-Log and ATM Simulator).<br>- 🧠 **Focus:** Strengthening my logic in Python and exploring backend development.<br>- 🌌 **Interests:** Space Science, Robotics, and High-Energy Physics.<br>- ⚡ **The Goal:** Combining technical coding skills with professional design.<br><br>### 🎨 Design Portfolio<br>You can find my YouTube thumbnails, banners, and digital assets here:<br>[Check out my Behance](https://www.behance.net/yaira_visuals
 
 
