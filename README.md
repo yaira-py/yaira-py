@@ -3,10 +3,11 @@ Systems Architect & Python Backend Engineer | yaira Official<br>Bridging the gap
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yaira-visuals) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yaira_visuals) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@yairaofficial) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/yairaofficial) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/yaira_visuals/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yairateam@gmail.com)
+
 
 
 # 💻 Tech Stack:
