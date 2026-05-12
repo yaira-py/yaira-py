@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems Architect & Python Backend Engineer | yaira Official<br>Bridging the gap between complex backend logic and high-impact visual design. I build resilient, automated systems with a focus on efficiency and scalability. Currently architecting my path toward the Japanese tech sector. 🇯🇵
+Cloud Solutions Architect & Python Backend Strategist | Yaira. Bridging the gap between business needs and complex cloud infrastructure. I specialize in designing resilient blueprints and automating workflows with Python to build high-efficiency systems for the Japanese tech market. 🇯🇵
 
 
 ## 🌐 Socials:
